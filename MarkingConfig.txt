@@ -1,0 +1,25 @@
+SCRIPT:
+Hi (studentName). You should (opt1) the (opt2). Pretty sure (opt3). (opt4).
+
+OPTION 1:
+crush
+smash
+eat
+peel
+
+OPTION 2:
+banana man
+apple man
+human man
+yellow cat
+black cat
+blue cat
+green cat
+
+OPTION 3: (What will he think about it?)
+he won't like it
+he will love it
+he won't mind
+
+OPTION 4:
+Anyway, bye
